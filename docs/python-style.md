@@ -4,8 +4,18 @@
 
 ## 使用技術
 
-- uv
+- uv (Astral社製のパッケージマネージャー)
 - python 3.12 (基本)
+
+## プロジェクトの始め方
+
+```bash
+uv init
+
+uv add requests
+
+uv add ruff pytest --dev
+```
 
 ## ディレクトリ構成
 
