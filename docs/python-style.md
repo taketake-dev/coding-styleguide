@@ -11,7 +11,7 @@
 
 - .python-version
 - pyproject.toml
-- uv
+- py.typed (mypy用)
 
 
 ## パッケージ化
