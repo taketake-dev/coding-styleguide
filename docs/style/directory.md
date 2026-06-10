@@ -1,0 +1,35 @@
+# ベストなディレクトリ構成
+
+## Python
+
+```bash
+<project-name>/
+├─ _reference/
+│  └─ old-project/
+│
+├─ .notes/
+│  └─ scratch.md
+│
+├─ .private/
+│  └─ api_key.txt
+│
+├─ config/
+│
+├─ docs/
+│  ├─ adr/
+│  │  └─ 0001-xxx.md
+│  ├─ DESIGN.md
+│  └─ SPEC.md
+│
+├─ outputs/
+│
+├─ src/
+│  └─ <project_name>/
+│
+├─ .env.example
+├─ .gitignore
+├─ .python-version
+├─ pyproject.toml
+├─ README.md
+└─ uv.lock
+```
