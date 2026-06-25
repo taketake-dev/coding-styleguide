@@ -2,7 +2,7 @@
 
 ## コミット
 
-「Conventional Commits」という、世界中のオープンソースや企業開発で採用されているデファクトスタンダードの記述ルールに準拠
+Conventional Commits
 
 ## タグ・リリース
 
